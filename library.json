@@ -1,0 +1,9 @@
+{
+  "name": "Esp8266AlexaWemoEmulator",
+  "keywords": "Alexa, Wemo, SmartHome, ESP8266",
+  "description": "Use your esp8266 with the Alexa by emulating a Wemo plug",
+  "repository":
+  {
+    "type": "git",
+    "url": "https://github.com/N0TB0T/esp8266-alexa-wemo-emulator.git"
+  }
